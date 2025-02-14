@@ -19,7 +19,23 @@ public class App {
         //exercicio18.main(new String[]{});     
         //exercicio20.main(new String[]{});     
         //exercicio35.main(new String[]{});     
-        //exercicio37.main(new String[]{});     
+        //exercicio37.main(new String[]{});
+        //exercicio38.main(new String[]{}); 
+        //exercicio40.main(new String[]{}); 
+        //exercicio42.main(new String[]{});      
+        //exercicio44.main(new String[]{});   
+        //exercicio48.main(new String[]{});     
         //exercicio49.main(new String[]{});      
+        //exercicio50.main(new String[]{});    
+        //exercicio51.main(new String[]{});    
+        //exercicio52.main(new String[]{});    
+        //exercicio59.main(new String[]{});    
+        //exercicio67.main(new String[]{});    
+        //exercicio80.main(new String[]{});    
+        //exercicio114.main(new String[]{});    
+        //exercicio132.main(new String[]{});    
+        //exercicio134.main(new String[]{});    
+        //exercicio154.main(new String[]{});    
+        //exercicio159.main(new String[]{});    
     }
 }
